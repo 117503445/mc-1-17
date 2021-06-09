@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:16
 WORKDIR /root
 ADD . .
 EXPOSE 25565
